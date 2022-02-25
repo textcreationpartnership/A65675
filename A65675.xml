@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to the order of the Middlesex justices, dated the 20th of December last, touching the suppressing of conventicles which order is here compared with the act of the 22d of this king, on which the same is grounded : wherein it will appear that the said order is lame and insufficient for any constable, or other officers to act by : being an answer to a letter received from a friend in Middlesex : wherein is also laid down some directions to the officers touching the execution of that act, according to the true intent and meaning of that law / by D. R.</title>
+            <author>Whitaker, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65675</idno>
+            <idno type="STC">Wing W1699</idno>
+            <idno type="STC">ESTC R8053</idno>
+            <idno type="EEBO-CITATION">13519850</idno>
+            <idno type="OCLC">ocm 13519850</idno>
+            <idno type="VID">99900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 481:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to the order of the Middlesex justices, dated the 20th of December last, touching the suppressing of conventicles which order is here compared with the act of the 22d of this king, on which the same is grounded : wherein it will appear that the said order is lame and insufficient for any constable, or other officers to act by : being an answer to a letter received from a friend in Middlesex : wherein is also laid down some directions to the officers touching the execution of that act, according to the true intent and meaning of that law / by D. R.</title>
+                  <author>Whitaker, Edward.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ab. Green,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Finials of name given on t.p. instead of initials.  Cf. Halkett and Laing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99900:1"/>
+            <pb n="1" facs="tcp:99900:1" rendition="simple:additions"/>
+            <head>AN ANSVVER To the ORDER of the Middleſex Juſtices, Dated the 20th. of <hi>December</hi> laſt, Touching the SUPPRESSING of CONVENTICLES. Which Order is here compared with the Act of the 22d of this King, on which the ſame is Grounded. Wherein it will appear that the ſaid Order is Lame and Inſufficient for any Conſtable, or other Officers to Act by.</head>
+            <head type="sub">BEING An Anſwer to a Letter received from a Friend in <hi>Middleſex,</hi> Wherein is alſo laid down ſome Directions to the Officers touching the Execution of that Act, according to the true intent and meaning of that Law.</head>
+            <byline>By <hi>D. R.</hi>
+            </byline>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving Received yours, with the Incloſed Order of the <hi>Middleſex</hi> Juſtices in Print, concerning the Suppreſſing Se<g ref="char:EOLhyphen"/>ditious Conventicles, and having conſidered the ſame as far as
+<pb n="2" facs="tcp:99900:2"/>my weak capacity will allow me, I muſt give you this ſhort An<g ref="char:EOLhyphen"/>ſwer, as to the Validity of the Order and Warrants Iſſued out by thoſe Juſtices, relating to the Law of the 22d of this King, hoping that hereafter you may receive a more perfect Anſwer from a Lawyer more experienced in thoſe Affairs.</p>
+            <p>Firſt for Anſwer, I muſt ſay, as my Judgment, it cannot but be a wonder to conſiderate men, that ſuch an Order, and at this time a day, ſhould be put forth, in caſe the ſame did agree with that Act (which I wholly deny it doth) if we conſider but theſe two things.</p>
+            <p>The one is, the ſenſe of the Nation declared by our Repreſen<g ref="char:EOLhyphen"/>tatives in two or three late Parliaments, wherein by their Unani<g ref="char:EOLhyphen"/>mous Votes, they have not only declared in favour of the Diſſen<g ref="char:EOLhyphen"/>ting Proteſtants from the Church of <hi>England,</hi> and Ordered Bills to be brought in for Repealing of all Laws made againſt them, but have alſo Voted it dangerous to the publick ſafety of the Kingom, to Proſecute any Proteſtant Diſſenters upon any Sta<g ref="char:EOLhyphen"/>tute whatever, or to that effect, as you may ſee by the Vote following, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Reſolved,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>an.</hi>
+               </note> 
+               <hi>That it is the Opinion of this Houſe, that the Proſecution of</hi> Proteſtant-Diſſenters <hi>upon the penal Laws is at this Time grievous to the</hi> Subject; <hi>a weaken<g ref="char:EOLhyphen"/>ing of the</hi> Proteſtant Intereſt; <hi>an encouragement to</hi> Pope<g ref="char:EOLhyphen"/>ry, <hi>and dangerous to the Peace of the Kingdom.</hi>
+            </p>
+            <p>Now certainly if this be ſo, then the ſentiments of the Juſti<g ref="char:EOLhyphen"/>ces, and the whole Commons of <hi>England,</hi> do vaſtly differ; for by this Order of the Juſtices, you will find they look upon ſuch as are Proteſtant Diſſenters, to be a danger to the Kingdom, and a diſturbance of the Peace; and the Juſtices, by this Order, do ſeem to hint as if there were no other danger but from them, the Pa<g ref="char:EOLhyphen"/>piſts having ſlipped their Necks out of the Collar. Now, Sir, this being the Caſe, the Juſtices being of one Opinion, and the Parli<g ref="char:EOLhyphen"/>ament of another, it may not be amiſs for thoſe Officers that exe<g ref="char:EOLhyphen"/>cute thoſe Juſtices Warrants, to conſider what may fall out hereafter; however, all I ſhall ſay, is, That I take the whole Houſe of Commons Judgment to be of much more value than 500 Juſtices of the Peace, though backed by as many Privy-Coun<g ref="char:EOLhyphen"/>ſellors,
+<pb n="3" facs="tcp:99900:2"/>But I know ſome Perſons that love to undervalue Parli<g ref="char:EOLhyphen"/>ament, will readily tell you, as in truth it is, that Votes and Intentions of the Houſe of Commons are no Laws 'till paſſed the Houſe of Peers, and the Royal Aſſent; we grant it true, Votes are no Laws; but when a Law is found burdenſome and grievous to the Nation, as the houſe of Commons thought in this caſe it was, then might not the Parliament make a beginning to Repeal them, and if they want time to finiſh what they had ſo begun, is not the judgment of the whole Nation to be taken notice of be<g ref="char:EOLhyphen"/>fore a few ſingle men, be they in what capacity they will? Certain<g ref="char:EOLhyphen"/>ly heretofore Votes in Parliament were held a great deal more ſacred, and it may be yet they may be found ſo hereafter: Re<g ref="char:EOLhyphen"/>member the caſe of Juſtice <hi>Treſſilian,</hi> who was Hanged for put<g ref="char:EOLhyphen"/>ting a Law in Execution that was in it ſelf Deſtructive to the well being of the People of <hi>England.</hi>
+            </p>
+            <p>But in the next place, the Order of the Juſtices ſeems ſtrange as to the timing of it; for now, in all haſte the Fanaticks muſt be Proſecuted upon this Law, though thought by the laſt Parlia<g ref="char:EOLhyphen"/>ments to be an obſolete Law, and Deſtructive in its ſelf to the common good. I would fain know of theſe Juſtices, Whether there was ever yet for this 20 years laſt paſt, any jot or tittle of damage to the King and Kingdom, by conniving or ſuffering the <hi>Diſſenters</hi> to meet to ſerve God in their own way; or if there was any damage, then, Whether it happened ſince the Votes or before; If ſince, then I confeſs the Votes ought to ſtand for no<g ref="char:EOLhyphen"/>thing, and the people puniſhed that did the wrong; but if none, what can be ſaid why all of a ſudden it muſt be done now, when we are affraid of being ſwallowed up with Popery every day, unleſs it be to haſten Popery, by deſtroying the <hi>Protestants?</hi> for ſure no honeſt man of common ſence will ſay, To beat down and ſuppreſs Popery, muſt be to tear in ſunder the Proteſtant <hi>Diſſen<g ref="char:EOLhyphen"/>ters;</hi> but if it be ſo, which I take for granted, that the Proteſtant <hi>Diſſenters</hi> have behaved themſelves as well towards the King and Kingdom ſince the laſt Parliament, as they did before, then I can ſee no reaſon for this eager Order, unleſs it be on purpoſe to oppoſe the Parliament and to fly in their face; to let us ſee that we will boldly fly in their faces, and tyrannize over them, when
+<pb n="4" facs="tcp:99900:3"/>they cannot Vindicate themſelves, but let that reſt for a while.</p>
+            <p>But I make no doubt that the Adverſaries of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, being the Papiſts, are very buſie and appear diſguiſed in every Court and Corner, and will be ready enough to ſay by and by, <hi>Oh but it is a Law, and you muſt conform to the ſame; and they that will not obey the Law, are not fit to live, eſpecially</hi> Nonconfor<g ref="char:EOLhyphen"/>miſts, the Phenaticks, <hi>ſuch as go to Conventicles,</hi> &amp;c. Now I would ask thoſe Loyalliſts (as they are pleaſed to terme themſelves) though they ſcarce know what the word means, If there are not more <hi>Nonconformiſts</hi> amongſt thoſe that call themſelves true Regular Conformiſts, then there is of the other, if all the Laws made againſt them ſhould be but as ſtrictly taken notice of, as the Conventicle Act is now by this Order of the Juſtices, for to inſtance in but two or three Laws made about the Clergy. And the firſt is their <hi>Non-Reſidence</hi> and <hi>Pluralities:</hi> ſee the Statute of 21 <hi>H.</hi> 8. which ſaith,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.</note> 
+               <hi>They ſhall reſide at the Benefices,</hi> &amp;c. which to obey, to a great many of them, is impoſſible, for ſome of them have four or five Benefices, and it is impoſſible for them to live at all thoſe places at once, unleſs they could divide them<g ref="char:EOLhyphen"/>ſelves as they can their Texts. In the ſame Statute it is ordain<g ref="char:EOLhyphen"/>ed, <hi>That no Eccleſiaſtical Perſon ſhall have more than one Benefice;</hi> yet we ſee they have many.</p>
+            <p>There is another Statute of King <hi>James,</hi> that commands that on the 5th of <hi>November</hi> the Act of Parliament ſhall be read in every Church by them, at, before, or after Divine ſervice, for Celebrating the day of Thanksgiving for the diſcovery of the <hi>Powder Plot.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> Now if the Juſtices ſhould make an Order for the puniſhment of all the Clergy that have not obſerved to read that Act in their Churches on the 5th of <hi>November,</hi> I very much queſtion whether there would not be more Nonconformiſt Mi<g ref="char:EOLhyphen"/>niſters conformed of the Sons of the Church, than thoſe that are now to be Proſecuted for holding of Conventicles; but again, as to the very Act of Uniformity made in this Kings Reign,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.</note> it is there expreſſedly declared, <hi>that no other Form or Ceremony ſhall be uſed but what is preſcribed in that Act, and in the Book of Common Prayer</hi> annexed; yet if you pleaſe to look into the Act, and the Book, you will find that the Conforming Clergy do not con<g ref="char:EOLhyphen"/>forme
+<pb n="5" facs="tcp:99900:3"/>to that Law neither; for they uſe divers Ceremonies that are not there, and omit much of what is there, witneſs their go<g ref="char:EOLhyphen"/>ing up to the Altar as they call it, to read ſecond ſervice, and giv<g ref="char:EOLhyphen"/>ing a Reverend Bow there.</p>
+            <p>Then their coming out of the Pulpit after Sermon, as ſome of them do, and reading ſome Prayers out of the Book in the Desk, or at the Altar again, and giving the Bleſſing not in the Pulpit at all.</p>
+            <p>Then in their ſetting the Communion-Table at the Eaſt-end of the Church, Altar-wiſe, Eaſt, and Weſt, in ſome places, with glorious Covering, and Railed in as an Altar, when as it ought to be ſet North and South, and in the Body of the Church or convenient place, with a clean Linnen Cloth. And then as to their turning their Faces all of a ſudden to the Eaſt, turning their Breech upon God Almighty; and Bowing at the Name of Jeſus, yet not at the Name of God or Chriſt. Pray in what place may theſe things be found in that Act, I would be very glad they would give a reaſon of this <hi>Non-Conformity,</hi> or <hi>Over-Conformity,</hi> which is the ſame in ſtrictneſs.</p>
+            <p>But, Sir, if you conſider there is not only a Nonconformity amongſt the Clergy in theſe Points, but alſo a Nonconformity in divers of the Lay men too; as for inſtance,<note place="margin">
+                  <hi>1</hi> Jacob. cap. <hi>9.21.</hi> Jacob cap. <hi>7. 1</hi> Car. c.</note> 
+               <hi>Swearing</hi> and <hi>Drunkenneſs,</hi> they are really againſt expreſs Laws as well as <hi>Conventicles,</hi> and as much againſt the Good of the King, and Peace of the Kingdom, as any thing in the world can be.</p>
+            <p>And then in the next place, all the <hi>Ale-houſes</hi> and <hi>Inn-keepers</hi> in <hi>England</hi> are all <hi>Nonconformiſts</hi> too, againſt expreſs Statutes both of King <hi>James,</hi> King <hi>Charles</hi> I and this King, which Laws ſay,</p>
+            <p>
+               <hi>That no Ale-houſe-keeper or Victualer in</hi> England, <hi>ſhall ſell the best ſtrong Beer and Ale for more than one Penny for a full Quart, and two Quarts of ſmall for one Penny.</hi>
+            </p>
+            <p>Yet I believe there is ſcarce one this day in <hi>England</hi> obeys thoſe Laws, though they are in as much Force as the <hi>Conventicle</hi> Act, and ought (by the Juſtices good leave) to be as ſeverely proſecuted as well as divers other Laws, which for Brevity I forbear to mention, therefore ſhall ſay no more of this matter, but come to the Order it ſelf, and conſider how well it is ſuited with the Act.</p>
+            <pb n="6" facs="tcp:99900:4"/>
+            <p>Firſt, The Order tells you, <hi>That whereas it was His Majesties Expreſs Order of the</hi> 14 <hi>of</hi> December, <hi>That all Conventicles and Meetings ſhould be ſuppreſſed,</hi> &amp;c. So would His Majeſty, no doubt, have all the other Laws put in Execution for the good of His People, and they, as Juſtices, ought to have known and done their Duty, if they had no ſuch particular Order as they are pleaſed to mention, and to put all thoſe other Laws againſt <hi>Swearing, Drunkenneſs, Popiſh Recuſants,</hi> and againſt <hi>Non-Reſi<g ref="char:EOLhyphen"/>dence</hi> and <hi>Pluralities,</hi> and againſt <hi>Clergy-men</hi> that pretend to be the Onely Sons of the Church, and yet have new Inventions that the Act never heard of; and alſo to take care, that the Laws againſt <hi>Victualers</hi> ſhould be put in Execution, and many other Laws as ſerviceable as this of proſecuting <hi>Conventicles</hi> can be: But the Order goes on, and tells us, <hi>All <g ref="char:V">Ʋ</g>nlawful Meetings upon pretence of Religious Worſhip.</hi> Now I ſhall crave leave, before I proceed any further, to ſay that the Act doth not intend to diſturb any perſon that meets <hi>truly</hi> to worſhip God, but ſuch as <hi>pretend</hi> Religious Worſhip, and under that Notion diſturb the Peace and Quiet of the Kingdom, which I never yet heard any of the <hi>Proteſtant Diſſenters</hi> ever did at their Meetings, and there<g ref="char:EOLhyphen"/>fore a Queſtion will ariſe, Whether the Act of the 22th of this King, there being now no other in force againſt <hi>Conventicles,</hi> be an Act that can diſturb any that really do worſhip God in their Meetings quietly and in reality, and not make it a pretence of Religious Worſhip.</p>
+            <p>In the next place the Order tells us, (viz.) <hi>It is this day Or<g ref="char:EOLhyphen"/>dered,</hi> &amp;c. <hi>That the Laws for Suppreſſing all Conventicles and <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>lawful Meetings, upon pretence of Religious Worſhip within this County, &amp;c. And that the ſaid Justices do uſe their utmost endeavor,</hi> &amp;c. Now I ſuppoſe that this Order was made by the Juſtices of the County themſelves, and for the ſame Juſtices to deſire them<g ref="char:EOLhyphen"/>ſelves to do Juſtice, in my Opinion, is to put a Doubt or a Diſtruſt upon their Worſhips. And that which ſeems moſt ſtrange, is the General Order it ſelf grounded upon this Act, when in the Act it ſelf there is no Colour nor Warrant for any ſuch General Order, but only that in caſe there be any Unlawful Meeting in any County, Precinct, or Diviſion, and be proved up<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:99900:4"/>the Oath of Two Witneſſes to the Juſtices in manner and form, as by the Act is directed, then the Juſtices ſhall grant their Warrants to the Conſtables, <hi>&amp;c.</hi> to ſeize and levy the Penalty; but how this Act will ſupport ſuch a General Order made on Suppoſitions without any Witneſs of Particulars, is worthy to be conſidered by the Reader.</p>
+            <p>Then the Order goes on, (viz.) <hi>And to the intent this good work may be effectually performed, it is farther Ordered, That War<g ref="char:EOLhyphen"/>rants be made and directed to the Conſtables,</hi> &amp;c. <hi>within this County by name, commanding them, and every of them within their Pa<g ref="char:EOLhyphen"/>riſhes, Diviſions and Limits, that they, and every of them do make diligent inquiry of all the Conventicles and <g ref="char:V">Ʋ</g>nlawful Meetings in their ſeveral Precincts,</hi> &amp;c. Now this Order ſeems to have no manner of relation to the Act or thing intended, for the Act gives no ſuch Directions either to the Juſtices, or the Conſta<g ref="char:EOLhyphen"/>bles, to obey any ſuch Order; for though the Act commands the Officers, that they ſhall execute any Warrant ſent by a Juſtice, to ſeize any Perſon or his Goods after the Perſon is Con<g ref="char:EOLhyphen"/>victed, if the Officer or Conſtable have knowledge thereof by good Information; yet it ſays not one word that the Conſtable ſhall execute any Warrant, or ſeize a Perſon or his Goods at Random upon a General Warrant, unleſs the Juſtices mean by this Order, that the Conſtables and Church-wardens, <hi>&amp;c.</hi> muſt be common Barretors, as well as turn Informers; neither of which, by that Act, can they be compelled unto, which I ſhall demonſtrate thus, <hi>viz.</hi>
+            </p>
+            <p>The Act, Section 1. Enacts,<note place="margin">22 <hi>Car.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Sect.</hi> 1.</note> 
+               <hi>That it ſhall and may be law<g ref="char:EOLhyphen"/>ful to, and for any one or more Iuſtices of the Peace of the County, Limits, Diviſion, Corporation, or Liberty where the offence aforeſaid ſhall be committed; and ſuch offence, either by the confeſſion of the Party, or Oath of two Witneſſes,</hi> &amp;c. <hi>to make a Record of every ſuch offence under his and their Hands and Seals,</hi> &amp;c. <hi>which Record ſo made, as aforeſaid, ſhall to all intents.</hi> &amp;c. <hi>be taken to be a full and perfect Conviction; and thereupon the ſaid Iuſtices, or Magiſtrates,</hi> &amp;c. <hi>ſhall impoſe on every ſuch Offender the ſum of</hi> 5. s. <hi>for ſuch firſt offence.</hi> By which it
+<pb n="8" facs="tcp:99900:5"/>plainly appears in this Clauſe, that the Party muſt be firſt Convicted, before the Conſtables or Under-Officers can exe<g ref="char:EOLhyphen"/>cute the Warrant for the firſt Offence; and if the Record muſt be made, then it follows, that the Perſon Convicted muſt be named; but how this General Order, or General Warrant will juſtifie the Conſtables, I leave all men to judge; and except the Juſtices can ſupport their Order, and ſuch General Warrants by any other part of the Statute, this, I am ſure, is ſo far from enabling the Conſtables to act according to Law in the Caſe, that it hath not the leaſt ſemblance of it; for by the Act, the Witneſſes muſt be the Informers, and give in the Names, in order to Convict the Party: But in theſe proceedings of the Juſtices, the Conſtables, <hi>&amp;c.</hi> muſt turn Informers againſt their Neighbors, to find themſelves work to ſeize them and their Goods, which no Conſtable or Officer can do by this Law, un<g ref="char:EOLhyphen"/>leſs we can find ſome other Paragraph in the Act that will ſuit that Order; therefore I ſhall proceed and conſider another Clauſe in the Act, which ſeems, at firſt, to be more preſſing up<g ref="char:EOLhyphen"/>on the Conſtables,<note place="margin">
+                  <hi>Sect.</hi> 11.</note> 
+               <hi>&amp;c.</hi> that is <hi>Section</hi> 11.</p>
+            <p>
+               <hi>And be it further Enacted,</hi> &amp;c. <hi>That if any Conſtable,</hi> &amp;c. <hi>who ſhall know, or be credibly in<g ref="char:EOLhyphen"/>formed of any ſuch Meetings,</hi> &amp;c. <hi>held within his Precincts,</hi> &amp;c. <hi>And ſhall not give Information thereof to ſome Juſtice of the Peace,</hi> &amp;c. <hi>And en<g ref="char:EOLhyphen"/>deavor the Conviction according to his Duty, but ſuch Conſtable,</hi> &amp;c. <hi>ſhall wilfully omit the perform<g ref="char:EOLhyphen"/>ance of his Duty, and be thereof Convicted in manner aforeſaid, he ſhall forfeit for every ſuch Offence the Sum of</hi> 5 l. <hi>to be Levied upon his Goods and Chattels,</hi> &amp;c.</p>
+            <pb n="9" facs="tcp:99900:5"/>
+            <p>Now I conceive, this Clauſe which is all in the Act, that hath any colour to preſs the Conſtables to turn Informers, is far ſhort of the thing deſign<g ref="char:EOLhyphen"/>ed; for by this Clauſe, it appears the Conſtables, <hi>&amp;c.</hi> muſt firſt be cre<g ref="char:EOLhyphen"/>dibly informed by others of a Conventicle or Meeting within their Pre<g ref="char:EOLhyphen"/>cincts, before they are obliged to take notice or look after them, and this Clauſe is far ſhort of forcing the Conſtables, <hi>&amp;c.</hi> firſt to go about their Precincts to ſeek for Conventicles, as if they wanted imployment, which by the Seſſions Order, they are ſuppoſed to do. But further, admit that a Conſtable or other Officer ſhort of a Juſtice, ſhould wholly neglect his Duty contained in this Clauſe; yet I conceive he runs no hazard at all as to the Penalty of the 5 <hi>l.</hi> before mentioned, nor any other hazard upon this Statute, becauſe the Act doth not preſcribe how the Conſtable ſhall be con<g ref="char:EOLhyphen"/>victed, whether by the Seſſions, the Juſtices, or by a Jury, nor in what manner the Conſtable ought to be proſecuted for the 5 <hi>l.</hi> mention'd in the Act, for not doing what the Act commands.</p>
+            <p>And to ſhew that the Conſtables and other Officers are not bound to go and enter into Meeting Houſes unadviſedly,<note place="margin">
+                  <hi>Sec</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9.</note> In the 9th <hi>Sect.</hi> of that Act, you will find that they have no power to ſeize or break open any Meeting, or take any Perſon thence, not be ayding, until Certificate be made to them reſpectively under the Hand and Seal of any one Juſtice of Peace, of his Particular Information or Knowledge of ſuch Unlawful Meetings; So are the expreſs words of the Act: but by the Juſtices Order, here they ſeem to command the Conſtables to do all without Certificate, or any thing elſe, as the Act directs; but in the next place, this Order com<g ref="char:EOLhyphen"/>mands the Conſtables, <hi>&amp;c.</hi> to take the Chriſtian Names and Sir-Names and Places of Abode of thoſe that have Preached within a Month laſt paſt, or ſhall Preach before the next Quarter Seſſions in any Conventicle or un<g ref="char:EOLhyphen"/>lawful Meeting; alſo, the Chriſtian Names and Sir-Names of the moſt conſiderable Perſons that Frequent the ſaid Conventicles. Now upon the whole matter, this doth not only command the Conſtables and others to be Informers, but contradicts both the Act and it ſelf; for the Act warrants no ſuch thing, the Act allowing no more, but if there be ſufficient Witneſs, then both the Juſtices are to convict, the Officers to Execute, for the firſt Offence 5 <hi>s.</hi> a peece, the ſecond Conviction 10 <hi>s.</hi> a peece, and in caſe in the ſecond Conviction, inſufficiency of the Hearers, then to the vallue of 10 <hi>l.</hi> upon ſuch as were preſent, inſtead of thoſe not able; but by the way, and with the Juſtices leave, for the firſt Offence by this Act, there can be no more levied than 5 <hi>s.</hi> upon Poor or Rich of the Hearers, nor ſhall any An<g ref="char:EOLhyphen"/>ſwer but for themſelves till the ſecond Conviction; and might it not be replyed to the Juſtices by the Conſtables, how ſhall they get theſe perſons to give them their Names ſo exactly before the next Quarter Seſſions, as the Order directs, ſo as the Conſtables may deliver them truely to the Ju<g ref="char:EOLhyphen"/>ſtices
+<pb n="10" facs="tcp:99900:6"/>on their Oaths, as is expreſſed in the Order; ſuppoſe wrong Names be given to the Conſtables, muſt they Swear to them to Convict the Meet<g ref="char:EOLhyphen"/>ers? and what if the Perſons will not give them their Names, for that the Law forces no Man to give his Name to Convict himſelf? and it may not be amiſs to conſider further, that the Conſtables, if they turn Informers, muſt alſo Swear, that no part of Divine Service was read at that Meeting all the time of their being together, which cannot well be Sworn, unleſs by <hi>Iriſh</hi> Witneſſes, and without they do prove that, it is no Conventicle within the Law.</p>
+            <p>In the next place the Order commands to make a true return of the Names ſo taken to the Juſtices of the Seſſions, in Writing, of ſuch Per<g ref="char:EOLhyphen"/>ſons as Preach and be at Conventicles, the day of the Month and place where they were held, and the Officers to prove it upon Oath, to the end ſuch Conventicles may be convicted according to Law. Now what Law theſe Gentlemen mean I know not, I am ſure it cannot be the Conventicle-Act, for that commands none of the Conſtables or other Officers to Swear againſt any. And this may be ſaid of the Order in general, That were it not an Order of Seſſions, it might be taken to be a force upon Men to Swear, and looks ſomething like an Invitation to Barratry, or at leaſt ſetting up a new Trade of Swearing; and as to that part which commands the Conſtables to return the Names to them at the Seſſions, there is no pretence in the Act to warrant ſuch a Command.</p>
+            <p>Therefore as to the whole Order of the Seſſions, and their Warrants thereupon to the Conſtables, ſent by the High Conſtables, wherein they are commanded to act according to that Order, I do here affirm, There is not the leaſt ground in the Act for ſuch Orders, nor can the Conſtables or Headburroughs Anſwer the ſame in caſe they ſhould turn Informers, if que<g ref="char:EOLhyphen"/>ſtioned hereafter, no more than ſome of the Juſtices of the Peace of <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> can anſwer the ſtopping Indictments from being found by the Grand Jury at <hi>Hick's</hi> Hall about three or four Seſſions ago, which was ſo bold an Attempt and Stab to the Common Law, that I dare affirm there never was ſo great an Offence committed by any Juſtice ſince the <hi>Saxon</hi> Race began in <hi>England.</hi>
+            </p>
+            <p>Thus having given you my Opinion of the Order, and compared the ſame a little with the Act; I ſhall go on a little further to ſhew what the Conſtables and Officers Duties are upon the Act. And firſt I do ſay, Where the Conſtable receives a Warrant to ſeize any Perſon convicted, he ought to obey it and go with the Informers to ſeize the Perſon; but nevertheleſs, if the Perſon be in any Houſe that is ſhut, and the Doors refuſed to be open<g ref="char:EOLhyphen"/>ed, the Conſtable hath no Power to break it open, nor to ſtand by while it is done, unleſs it be where there is a Meeting, and then no more but to get into the Meeting if they are refuſed entrance, and no other ways will the
+<pb n="11" facs="tcp:99900:6"/>Act bear them out in, nor is it the Conſtables work to be an Informer, but to keep the Peace, and if any Conſtable have a Warrant from a Juſtice to go to ſuch a place where there is a Meeting, to take the Names of the Peo<g ref="char:EOLhyphen"/>ple, who will not give their Names, the Conſtables nor Juſtices cannot force them, nor are they bound to be over forward in asking, for the Act appoints no ſuch thing; nor are the Conſtables or any under Officers obli<g ref="char:EOLhyphen"/>ged to enter into any Meeting-houſe to diſturb them, unleſs that firſt they have a Certificate under the Hand and Seal of ſome Juſtice of the Peace of ſuch Meeting, which appears plainly in the 9th Paragraph of that Act.</p>
+            <p>But admit ſuch a Certificate ſhould be made of a Meeting had or intended to be had,<note place="margin">
+                  <hi>Sect.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> conſider how dangerous a thing this will be to the Conſtables or any under Officers to ſeize Perſons in the ſame Meeting, for how can he that comes to ſeize the Perſons, tell but that thoſe very People there, met, is ac<g ref="char:EOLhyphen"/>cording to the Liturgy and Practice of the Church of <hi>England.</hi> And if it be ſo, that the ſame Duties of Religion are performed there in a peaceable manner, as are in the Church of <hi>England,</hi> then it is moſt plain that the ſame is no Conventicle, and ſo not within the compaſs of the Law. Now it will not be amiſs to conſider what is uſed for Service in the Church of <hi>England.</hi> In the firſt place Prayer is uſed in the Church both by the Common-Prayer-Book, and without, in the Pulpit; then Singing of Pſalms, then a Sermon. Now if the Meetings do perform nothing but theſe Exerciſes, it cannot by this Act be made a Conventicle, and if there be any Meeting in <hi>England</hi> that doth not all or the moſt of thoſe Duties, then let the <hi>Middleſex</hi> Juſti<g ref="char:EOLhyphen"/>ces and Conſtables do what they pleaſe with them, and if they do all theſe Exerciſes, though one of them may be omitted, yet I think it cannot be made a Conventicle, for the words are, <hi>viz. In other manner then according to the Liturgy and Practice of the Church of</hi> England; and how any Officer can Swear or Prove that Prayer, Preaching, and Singing of Pſalms are not the Practiſe and Uſage of the Church of <hi>England,</hi> I know not, but muſt leave them to conſider the Conſequences.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Ab. Green.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
